@@ -23,7 +23,7 @@ export default {
   async fetch(request) {
     /**
      * Example someHost is set up to return raw JSON
-     * @param {string} someUrl the URL to send the request to, since we are setting hostname too only path is applied
+     * @param {string} someUrl the URL to send the request to, since we are setting hostname too, only path is applied
      * @param {string} someHost the host the request will resolve too
      */
     const someHost = "example.com";
